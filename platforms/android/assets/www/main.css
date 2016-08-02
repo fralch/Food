@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+
+html, body {height: 100%}
+
+#triangulo1{
+	width: 40%;
+}
+
+#triangulo2{
+	width: 40%;
+	transform : rotate(180deg);
+	position:absolute; 
+	bottom:0;
+	right: 0;
+}
+
+#cubiertos{
+	width: 60%;
+	margin-left: 20%;
+}
+#logo{
+	width: 60%;
+	margin-left: 20%;
+}
+/*@media screen and (min-width: 320px) {
+
+
+}*/

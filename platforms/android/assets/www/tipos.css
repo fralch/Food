@@ -1,0 +1,29 @@
+body{
+	background-color: #5B5C5E;
+	margin:0;
+}
+
+#logo{
+	background-color:#EC474D;
+	width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+	
+}
+#logo img{
+    width: 40%;
+    margin-left: 30%;
+    padding: 5% 0 5% 0;
+}
+
+a img{
+    width: 45%;
+    margin: 2%;
+}
+
+#pie{
+    width: 100%;
+    background-color:#EC474D;
+    color: #EC474D;
+    page-break-after: 5%;
+}
